@@ -1,0 +1,5 @@
+DSK algo is failed for -ve weight in graph while Bellman Algo correctly run in any condition 
+DSK is greedy type algo
+Bellman is dynamic programming type algo
+
+DSK time complexity is lower than Bellman 
